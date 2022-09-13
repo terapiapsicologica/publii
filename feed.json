@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test hosting",
+    "description": "",
+    "home_page_url": "https://terapiapsicologica.github.io/publii",
+    "feed_url": "https://terapiapsicologica.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "io"
+    },
+    "items": [
+    ]
+}
