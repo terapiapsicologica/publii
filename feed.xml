@@ -3,10 +3,31 @@
     <title>Test hosting</title>
     <link href="https://terapiapsicologica.github.io/publii/feed.xml" rel="self" />
     <link href="https://terapiapsicologica.github.io/publii" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-09-13T22:09:20+02:00</updated>
     <author>
         <name>io</name>
     </author>
     <id>https://terapiapsicologica.github.io/publii</id>
 
+    <entry>
+        <title>Ho provato a pubblicare su github</title>
+        <author>
+            <name>io</name>
+        </author>
+        <link href="https://terapiapsicologica.github.io/publii/ho-provato-a-pubblicare-su-github.html"/>
+        <id>https://terapiapsicologica.github.io/publii/ho-provato-a-pubblicare-su-github.html</id>
+
+        <updated>2022-09-13T22:09:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Dopo aver stabilito il collegamento tra publii e github comincio a fare qualche test. La prima cosa che mi spaventa è il limite del numero di file impostato a 1000. Se fosse così non potrei utilizzarlo per il sito principale che ad oggi è composto&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Dopo aver stabilito il collegamento tra publii e github comincio a fare qualche test.</p>
+<p>La prima cosa che mi spaventa è il limite del numero di file impostato a 1000. Se fosse così non potrei utilizzarlo per il sito principale che ad oggi è composto da circa 6000 file.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

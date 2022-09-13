@@ -9,5 +9,19 @@
         "name": "io"
     },
     "items": [
+        {
+            "id": "https://terapiapsicologica.github.io/publii/ho-provato-a-pubblicare-su-github.html",
+            "url": "https://terapiapsicologica.github.io/publii/ho-provato-a-pubblicare-su-github.html",
+            "title": "Ho provato a pubblicare su github",
+            "summary": "Dopo aver stabilito il collegamento tra publii e github comincio a fare qualche test. La prima cosa che mi spaventa è il limite del numero di file impostato a 1000. Se fosse così non potrei utilizzarlo per il sito principale che ad oggi è composto&hellip;",
+            "content_html": "<p>Dopo aver stabilito il collegamento tra publii e github comincio a fare qualche test.</p>\n<p>La prima cosa che mi spaventa è il limite del numero di file impostato a 1000. Se fosse così non potrei utilizzarlo per il sito principale che ad oggi è composto da circa 6000 file.</p>",
+            "author": {
+                "name": "io"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-13T22:09:20+02:00",
+            "date_modified": "2022-09-13T22:09:20+02:00"
+        }
     ]
 }
